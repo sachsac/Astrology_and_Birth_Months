@@ -5,7 +5,8 @@ This exercise was a part of my Data Science course at Coding Dojo. The purpose o
 
 Using both heatmaps and bar graphs to demonstrate the information, I found that Virgos are the most common sign for this timeframe, and that Capricorns are the least common. This is indicated by both the heatmap and bar chart. 
 
-![heatmap signs](https://user-images.githubusercontent.com/86759538/129136304-cdb6cbed-e883-43c7-8c64-90236b012522.png) ![signs bar](https://user-images.githubusercontent.com/86759538/129136509-4b8d9eee-5386-4aad-830b-00a38ba73ae6.png)
+![download](https://user-images.githubusercontent.com/86759538/129138412-06015b03-d9e9-4770-a017-4344eb672116.png)
+ ![signs bar](https://user-images.githubusercontent.com/86759538/129136509-4b8d9eee-5386-4aad-830b-00a38ba73ae6.png)
 
 Regarding birth months, I was able to support information similar to the original article of ["How Common is Your Birthday?"](http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/), which showed that birthdays are much less likely to fall on a major holiday.
 
