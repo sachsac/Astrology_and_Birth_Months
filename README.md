@@ -1,17 +1,20 @@
 # Astrology_and_Birth_Months
 A look into the prevalence of Astrological Signs and Birth Months using and building upon data from [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/births).
 
-This exercise was a part of my Data Science course at Coding Dojo. This task aimed to build data visualization skills and to re-create or improve data challenges from Makeover Monday. The challenge was to take the birthday data and add an element involving astrological signs to measure the prevalence of each astrological sign for the birth years of 1994-2014 in the United States.
+# Introduction
+This exercise was initially a part of my Data Science course at Coding Dojo but I have since updated this GitHub as I improved upon my techniques. The task for this project aimed to build data visualization skills and to re-create or improve data challenges from Makeover Monday. The challenge was to take the birthday data and add an element involving astrological signs to measure the prevalence of each astrological sign for the birth years of 1994-2014 in the United States.
+
+# Findings
 
 Using both heatmaps and bar graphs to demonstrate the information, I found that Virgos are the most common sign for this timeframe and that Capricorns are the least common. This is indicated by both the heatmap and bar chart. 
 
-![download](https://user-images.githubusercontent.com/86759538/129138412-06015b03-d9e9-4770-a017-4344eb672116.png)
- ![signs bar](https://user-images.githubusercontent.com/86759538/129136509-4b8d9eee-5386-4aad-830b-00a38ba73ae6.png)
+![image](https://user-images.githubusercontent.com/86759538/165868935-e0879f70-86a2-4325-a230-45c5a7558470.png)
+![image](https://user-images.githubusercontent.com/86759538/165868972-06fd5403-bdc2-405e-a4c8-2c8f0c45b493.png)
 
 Regarding birth months, I was able to support information similar to the original article of ["How Common is Your Birthday?"](http://thedailyviz.com/2016/09/17/how-common-is-your-birthday-dailyviz/), which showed that birthdays are much less likely to fall on a major holiday.
 
-![heatmap months](https://user-images.githubusercontent.com/86759538/129136804-1f4514af-576d-4d7f-af72-386c7e90974a.png)
+![image](https://user-images.githubusercontent.com/86759538/165868896-651dbb2d-c47e-4833-af86-fc8ef856a4d7.png)
 
 Looking strictly at months, February has the least births, which likely correlates given it has fewer days than the rest of the months, as well as August narrowly has the most births, a month that overlaps with Virgos.
 
-![months bar](https://user-images.githubusercontent.com/86759538/129136901-10c9299c-1ae6-4d91-9979-40b22757bd83.png)
+![image](https://user-images.githubusercontent.com/86759538/165868721-337c9014-6814-4856-a029-d3dfc3064378.png)
